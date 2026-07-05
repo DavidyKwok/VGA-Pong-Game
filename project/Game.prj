@@ -1,0 +1,7 @@
+vhdl work "../debug/ipcore_dir/icon.vhd"
+vhdl work "../src/VGA_Controller.vhd"
+vhdl work "../src/Player_Control.vhd"
+vhdl work "../debug/ipcore_dir/ila.vhd"
+vhdl work "../src/Clock_Divider.vhd"
+vhdl work "../src/Ball_Physics.vhd"
+vhdl work "../src/Game.vhd"
